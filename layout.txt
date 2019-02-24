@@ -1,0 +1,3 @@
+forget running this on a web app, have it output in a json file.
+focus on getting the main script down.
+then focus on adding it to website.
